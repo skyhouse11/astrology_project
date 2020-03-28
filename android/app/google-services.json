@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590548687560",
+    "firebase_url": "https://astrology-project-b49d1.firebaseio.com",
+    "project_id": "astrology-project-b49d1",
+    "storage_bucket": "astrology-project-b49d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590548687560:android:bb30e34291be6cf5",
+        "android_client_info": {
+          "package_name": "com.company.astrology_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590548687560-fhj6f5ig498dvadjb76q8j4u1okfke7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdnv7MiFsf0HjJHbjwfZPRyPr63Dn8kAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590548687560-fhj6f5ig498dvadjb76q8j4u1okfke7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
